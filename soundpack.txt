@@ -1,0 +1,5 @@
+#Basic provided soundpack
+#Name of the soundpack
+NAME: Test
+#Viewing name of the soundpack
+VIEW: Test

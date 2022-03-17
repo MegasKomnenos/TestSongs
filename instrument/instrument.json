@@ -1,0 +1,17 @@
+[
+	{
+		"type": "playlist",
+		"playlists": [
+			{
+				"id" : "instrument",
+				"shuffle": true,
+				"files": [
+					{ "file": "instrument/Weekend.ogg", "volume": 80 },
+					{ "file": "instrument/chael-sparks.ogg", "volume": 80 },
+					{ "file": "instrument/Energetic-Drink.ogg", "volume": 80 },
+					{ "file": "instrument/Inspiring-Acoustic-Guitar.ogg", "volume": 80 }
+				]
+			}
+		]
+	}
+]
